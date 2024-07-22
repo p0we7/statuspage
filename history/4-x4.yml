@@ -1,7 +1,7 @@
 url: $SECRET_4X4
-status: down
-code: 502
-responseTime: 927
-lastUpdated: 2024-07-21T23:11:08.957Z
+status: up
+code: 200
+responseTime: 1358
+lastUpdated: 2024-07-22T02:12:27.890Z
 startTime: 2023-12-03T15:48:08.213Z
 generator: Upptime <https://github.com/upptime/upptime>
