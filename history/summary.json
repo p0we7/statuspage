@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starrydns.com.ico",
     "slug": "starry-dns",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 345,
-    "timeDay": 391,
-    "timeWeek": 279,
-    "timeMonth": 476,
-    "timeYear": 345,
+    "uptimeYear": "99.93%",
+    "time": 346,
+    "timeDay": 445,
+    "timeWeek": 314,
+    "timeMonth": 477,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2024-01-23": 285
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 530,
-    "timeDay": 708,
-    "timeWeek": 561,
-    "timeMonth": 557,
-    "timeYear": 530,
+    "time": 531,
+    "timeDay": 629,
+    "timeWeek": 589,
+    "timeMonth": 556,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2024-01-23": 284
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 1307,
-    "timeDay": 1534,
-    "timeWeek": 1327,
-    "timeMonth": 1339,
+    "timeDay": 1406,
+    "timeWeek": 1337,
+    "timeMonth": 1336,
     "timeYear": 1307,
     "dailyMinutesDown": {
       "2024-07-22": 132,
